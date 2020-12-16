@@ -1,0 +1,130 @@
+CREATE DATABASE [ExposoftwareBD];
+USE  [ExposoftwareBD]
+
+
+CREATE TABLE [dbo].[Areas](
+	[IdArea] [nvarchar](4) NOT NULL PRIMARY KEY,
+	[Nombre] [nvarchar](50) NULL,
+)
+
+CREATE TABLE [dbo].[Asignaturas](
+	[IdAsignatura] [nvarchar](4) NOT NULL PRIMARY KEY,
+	[Nombre] [nvarchar](50) NULL,
+	[NombreArea] [nvarchar](50) not null,
+)
+CREATE TABLE [dbo].[Calificaciones](
+	[IdCalificacion] [int] NOT NULL PRIMARY KEY,
+	[Identificacion] [nvarchar](10) NULL,
+	[IdRubrica] [nvarchar](4) null,
+	[IdProyecto] [int] not null,
+	[Fecha] [datetime2] null,
+	[Evaluador] [nvarchar](10) null,
+)
+CREATE TABLE [dbo].[DescripcionCalificaciones](
+	[IdDescripcion] [int] NOT NULL PRIMARY KEY,
+	[Valor] [decimal](18,2) not NULL,
+	[IdProyecto] [int] not null,
+)
+
+CREATE TABLE [dbo].[Rubricas](
+	[IdRubrica] [nvarchar](4) NOT NULL PRIMARY KEY,
+	[IdArea] [nvarchar](4) null,
+	
+)
+FOREIGN KEY (IdArea) REFERENCES Area(IdArea)
+CREATE TABLE [dbo].[ItemsRubricas](
+	[Item] [nvarchar](4)  NOT NULL PRIMARY KEY,
+	[IdRubrica] [nvarchar](4) NULL,
+	[Descripcion] [nvarchar](max) null,
+)
+-------------------------------------------------------
+
+CREATE TABLE [dbo].[Docentes](
+	[Identificacion] [nvarchar](10) NOT NULL PRIMARY KEY,
+	[PrimerNombre] [nvarchar](20) NULL,
+	[SegundoNombre] [nvarchar](20) NULL,
+	[PrimerApellido] [nvarchar](20) NULL,
+	[SegundoApellido] [nvarchar](20) NULL,
+	[Celular] [nvarchar](10) NULL,
+	[Correo] [nvarchar](50) NULL,
+	[Perfil] [nvarchar](50) null,
+	[NombreArea] [nvarchar](50) null,
+	[TipoDocente] [nvarchar](30) NULL,
+)
+
+CREATE TABLE [dbo].[Usuario](
+	[Usuario] [nvarchar](30) NOT NULL PRIMARY KEY,
+	[Contrasena] [nvarchar](20) NULL,
+	[TipoDocente] [nvarchar](50) NULL,
+	[Identificacion] [nvarchar](10),
+	FOREIGN KEY (Identificacion) REFERENCES Docente(Identificacion)
+)
+CREATE TABLE [dbo].[Users](
+	[UserName] [nvarchar](450) NOT NULL PRIMARY KEY,
+	[Password] [nvarchar](450) NULL,
+	[Estado] [nvarchar](50) NULL,
+	[Email] [nvarchar](60) null,
+	[Rol] [nvarchar](60) null,
+	[Token] [nvarchar](max) null,
+)
+FOREIGN KEY (Identificacion) REFERENCES Docente(Identificacion)
+
+CREATE TABLE [dbo].[Proyectos](
+	[IdProyecto] [int] NOT NULL PRIMARY KEY,
+	[Identificacion] [nvarchar](10) NULL,
+	[Estudiante1] [nvarchar](10) NULL,
+	[Estudiante2] [nvarchar](10) NULL,
+	[Asignatura] [nvarchar](50)  NULL,
+	[Titulo] [nvarchar](250)  NULL,
+	[Semestre] [nvarchar](2) NULL,
+	[Resumen] [nvarchar](250) NULL,
+	[Metodologia] [nvarchar](250) NULL,
+	[Resultados] [nvarchar](250) NULL,
+	[Estado] [nvarchar](15) NULL,
+	Observacion] [nvarchar](250) NULL,
+-------no le agregue las llaves forareas aun--------------
+	FOREIGN KEY (Identificacion) REFERENCES LiderProyecto(Identificacion),
+	FOREIGN KEY (Asignatura) REFERENCES Asignatura(IdAsignatura),
+	FOREIGN KEY (Estudiante1) REFERENCES Estudiante(Identificacion),
+	FOREIGN KEY (Estudiante2) REFERENCES Estudiante(Identificacion)
+
+---------------------------------------------------------------------
+)
+
+CREATE TABLE [dbo].[Estudiantes](
+	[Identificacion] [nvarchar](10) NOT NULL PRIMARY KEY,
+	[PrimerNombre] [nvarchar](20) NULL,
+	[SegundoNombre] [nvarchar](20) NULL,
+	[PrimerApellido] [nvarchar](20) NULL,
+	[SegundoApellido] [nvarchar](20) NULL,
+	[Celular] [nvarchar](10) NULL,
+	[Correo] [nvarchar](50) NULL,
+)
+
+CREATE TABLE [dbo].[Pendons](
+	[IdPendon] [int] NOT NULL PRIMARY KEY,
+	[IdProyecto] [int] NOT NULL,
+	[Titulo] [nvarchar](250) NULL,
+	[Introduccion] [nvarchar](250) NULL,
+	[Metodologia] [nvarchar](250) NULL,
+	[Resultados] [nvarchar](250) NULL,
+	[Objetivos] [nvarchar](250) NULL,
+	[Conclusion] [nvarchar](250) NULL,
+	[Referencias] [nvarchar](250) NULL,
+	[Observacion] [nvarchar](250) NULL,
+	[Estado] [nvarchar](12) NULL,	
+)
+FOREIGN KEY (IdProyecto) REFERENCES Proyecto(IdProyecto)
+*-----------------aun no creo esta tabla------------------*
+CREATE TABLE [dbo].[Certificado](
+	[IdCertificado] [nvarchar](5) NOT NULL PRIMARY KEY,
+	
+)
+---------------------------------------------------
+
+CREATE TABLE [dbo].[UsuarioComiteEvaluador](
+	[Identificacion] [nvarchar](50) NOT NULL PRIMARY KEY,
+	[Nombre] [nvarchar](50) NULL,
+	[CorreoElectronico] [nvarchar](50) null,
+	[Contrasenia][nvarchar](50) null,
+)

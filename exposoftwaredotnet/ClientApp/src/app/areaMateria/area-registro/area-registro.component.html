@@ -1,0 +1,40 @@
+<app-menu-top></app-menu-top>
+<div class="row">
+    <app-menu-lateral></app-menu-lateral>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-9 offset-md-1">
+                <h5>Registrar Area<span class="obligatorio"> * Obligatorio</span></h5>
+                <form [formGroup]="formGroup">
+                    <div class="form-group">
+                        <label for="idArea">Código <span class="obligatorio">*</span></label>
+                        <input type="text" name="idArea" formControlName="idArea" class="form-control"
+                            [ngClass]="{'is-invalid': control.idArea.errors && formGroup.get('idArea').touched}" />
+                        <div *ngIf="control.idArea.errors && formGroup.get('idArea').touched"
+                            class="invalid-feedback">
+                            <div *ngIf="control.idArea.errors.required">Campo requerido</div>
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="nombre">Nombre del area<span class="obligatorio">*</span></label>
+                        <input type="text" name="nombre" formControlName="nombre"
+                            class="form-control"
+                            [ngClass]="{'is-invalid': control.nombre.errors && formGroup.get('nombre').touched}" />
+                        <div *ngIf="control.nombre.errors && formGroup.get('nombre').touched"
+                            class="invalid-feedback">
+                            <div *ngIf="control.nombre.errors.required">Campo requerido</div>
+                        </div>
+                    </div>
+
+                    <div class="text-center">
+                        <button id="botones" class="btn btn-success" (click)="onSubmit()"
+                            [disabled]="formGroup.invalid">Guardar</button>
+                        <button id="botones" class="btn btn-success" type="reset">Cancelar</button>
+                    </div>
+
+                </form>
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,460 @@
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\exposoftwaredotnet.Views.dll
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\exposoftwaredotnet.Views.pdb
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\publish\publish\publish\publish\web.config
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\publish\publish\publish\web.config
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\publish\publish\web.config
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\publish\web.config
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\appsettings.json
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\package-lock.json
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\publish\appsettings.Development.json
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\publish\appsettings.json
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\publish\exposoftwaredotnet.deps.json
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\publish\exposoftwaredotnet.runtimeconfig.json
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\publish\package-lock.json
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\publish\publish\appsettings.Development.json
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\publish\publish\appsettings.json
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\publish\publish\exposoftwaredotnet.deps.json
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\publish\publish\exposoftwaredotnet.runtimeconfig.json
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\publish\publish\package-lock.json
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\publish\publish\publish\appsettings.Development.json
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\publish\publish\publish\appsettings.json
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\publish\publish\publish\exposoftwaredotnet.deps.json
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\publish\publish\publish\exposoftwaredotnet.runtimeconfig.json
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\publish\publish\publish\package-lock.json
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\publish\publish\publish\publish\appsettings.Development.json
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\publish\publish\publish\publish\appsettings.json
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\publish\publish\publish\publish\exposoftwaredotnet.deps.json
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\publish\publish\publish\publish\exposoftwaredotnet.runtimeconfig.json
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\publish\publish\publish\publish\package-lock.json
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\exposoftwaredotnet.exe
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.dll
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.pdb
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\nunit.engine.dll
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\nunit.engine.api.dll
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\ExposoftwaredotnetTests.deps.json
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\ExposoftwaredotnetTests.runtimeconfig.json
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\ExposoftwaredotnetTests.runtimeconfig.dev.json
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\ExposoftwaredotnetTests.dll
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.NodeServices.dll
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.SpaServices.dll
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.SpaServices.Extensions.dll
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\Microsoft.DotNet.InternalAbstractions.dll
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CoreUtilities.dll
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.Utilities.dll
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\testhost.dll
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\nunit.framework.dll
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\Datos.dll
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\Entity.dll
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\exposoftwaredotnet.dll
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\Logica.dll
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\exposoftwaredotnet.pdb
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\Datos.pdb
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\Entity.pdb
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\Logica.pdb
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\obj\Debug\netcoreapp3.1\ExposoftwaredotnetTests.csprojAssemblyReference.cache
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\obj\Debug\netcoreapp3.1\ExposoftwaredotnetTests.AssemblyInfoInputs.cache
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\obj\Debug\netcoreapp3.1\ExposoftwaredotnetTests.AssemblyInfo.cs
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\obj\Debug\netcoreapp3.1\ExposoftwaredotnetTests.csproj.CopyComplete
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\obj\Debug\netcoreapp3.1\ExposoftwaredotnetTests.genruntimeconfig.cache
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\ExposoftwaredotnetTests.pdb
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\WebDriver.dll
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\obj\Debug\netcoreapp3.1\ExposoftwaredotnetTests.dll
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\obj\Debug\netcoreapp3.1\ExposoftwaredotnetTests.pdb
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\WebDriver.Support.dll
+C:\programacion-web\exposoftwareProyecto\ExposoftwaredotnetTests\obj\Debug\netcoreapp3.1\ExposoftwaredotnetTests.csproj.CoreCompileInputs.cache
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.dll
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.pdb
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\nunit.engine.dll
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\nunit.engine.api.dll
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\exposoftwaredotnet.Views.dll
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\exposoftwaredotnet.Views.pdb
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\package-lock.json
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\exposoftwaredotnet.exe
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\ExposoftwaredotnetTests.deps.json
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\ExposoftwaredotnetTests.runtimeconfig.json
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\ExposoftwaredotnetTests.runtimeconfig.dev.json
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\ExposoftwaredotnetTests.dll
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\ExposoftwaredotnetTests.pdb
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.NodeServices.dll
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.SpaServices.dll
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.SpaServices.Extensions.dll
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\Microsoft.DotNet.InternalAbstractions.dll
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CoreUtilities.dll
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.PlatformAbstractions.dll
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CommunicationUtilities.dll
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CrossPlatEngine.dll
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.Utilities.dll
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.Common.dll
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\testhost.dll
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\nunit.framework.dll
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\WebDriver.Support.dll
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\WebDriver.dll
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\Datos.dll
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\Entity.dll
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\exposoftwaredotnet.dll
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\Logica.dll
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\exposoftwaredotnet.pdb
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\Datos.pdb
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\Entity.pdb
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\bin\Debug\netcoreapp3.1\Logica.pdb
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\obj\Debug\netcoreapp3.1\ExposoftwaredotnetTests.csprojAssemblyReference.cache
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\obj\Debug\netcoreapp3.1\ExposoftwaredotnetTests.csproj.CoreCompileInputs.cache
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\obj\Debug\netcoreapp3.1\ExposoftwaredotnetTests.AssemblyInfoInputs.cache
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\obj\Debug\netcoreapp3.1\ExposoftwaredotnetTests.AssemblyInfo.cs
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\obj\Debug\netcoreapp3.1\ExposoftwaredotnetTests.csproj.CopyComplete
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\obj\Debug\netcoreapp3.1\ExposoftwaredotnetTests.dll
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\obj\Debug\netcoreapp3.1\ExposoftwaredotnetTests.pdb
+D:\Paginas web\ProyectoExposoftwareV2\ExposoftwaredotnetTests\obj\Debug\netcoreapp3.1\ExposoftwaredotnetTests.genruntimeconfig.cache

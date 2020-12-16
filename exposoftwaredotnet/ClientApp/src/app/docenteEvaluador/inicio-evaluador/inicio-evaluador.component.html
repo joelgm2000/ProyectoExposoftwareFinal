@@ -1,0 +1,38 @@
+<app-menu-top></app-menu-top>
+<div class="row">
+    <div class="container">
+        <h5>Calificación de proyectos</h5>
+        <div class="row">
+            <label for="id">Digite identificación</label>
+            <div class="col-2">
+                <input type="text" name="id" [(ngModel)]="id" class="form-control" />
+            </div>
+            <div class="col">
+                <button class="btn btn-success" (click)="buscar()" type="button">Buscar</button>
+            </div>
+            <input type="hidden" name="idRubrica" [(ngModel)]="idRubrica" class="form-control" />
+        </div>
+        <table class="table table-hover" *ngIf='proyectos && proyectos.length'>
+            <thead>
+                <tr>
+                    <th scope="col">#</th>
+                    <th scope="col">Codigo</th>
+                    <th scope="col">Docente</th>
+                    <th scope="col">Título</th>
+                    <th scope="col">Estado</th>
+                    <th scope="col">Acción</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr *ngFor="let proyecto of proyectos;index as i">
+                    <th scope="row"> {{ i + 1 }} </th>
+                    <td>{{ proyecto.idProyecto }} </td>
+                    <td>{{ proyecto.identificacion }}</td>
+                    <td>{{ proyecto.titulo }}</td>
+                    <td>{{ proyecto.estado }}</td>
+                    <td> <a routerLink='/registrarCalificacion/{{proyecto.idProyecto}}/{{idRubrica}}'>Calificar</a></td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</div>

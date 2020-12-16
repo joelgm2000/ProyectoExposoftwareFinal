@@ -1,0 +1,26 @@
+C:\programacion-web\exposoftwareProyecto\Entity\bin\Debug\netstandard2.0\Entity.deps.json
+C:\programacion-web\exposoftwareProyecto\Entity\bin\Debug\netstandard2.0\Entity.dll
+C:\programacion-web\exposoftwareProyecto\Entity\bin\Debug\netstandard2.0\Entity.pdb
+C:\programacion-web\exposoftwareProyecto\Entity\obj\Debug\netstandard2.0\Entity.csprojAssemblyReference.cache
+C:\programacion-web\exposoftwareProyecto\Entity\obj\Debug\netstandard2.0\Entity.AssemblyInfoInputs.cache
+C:\programacion-web\exposoftwareProyecto\Entity\obj\Debug\netstandard2.0\Entity.AssemblyInfo.cs
+C:\programacion-web\exposoftwareProyecto\Entity\obj\Debug\netstandard2.0\Entity.dll
+C:\programacion-web\exposoftwareProyecto\Entity\obj\Debug\netstandard2.0\Entity.pdb
+E:\JOEL BOLIVAR GM\Proyecto v2\ProyectoExposoftwareV2\Entity\bin\Debug\netstandard2.0\Entity.deps.json
+E:\JOEL BOLIVAR GM\Proyecto v2\ProyectoExposoftwareV2\Entity\bin\Debug\netstandard2.0\Entity.dll
+E:\JOEL BOLIVAR GM\Proyecto v2\ProyectoExposoftwareV2\Entity\bin\Debug\netstandard2.0\Entity.pdb
+E:\JOEL BOLIVAR GM\Proyecto v2\ProyectoExposoftwareV2\Entity\obj\Debug\netstandard2.0\Entity.csprojAssemblyReference.cache
+E:\JOEL BOLIVAR GM\Proyecto v2\ProyectoExposoftwareV2\Entity\obj\Debug\netstandard2.0\Entity.csproj.CoreCompileInputs.cache
+E:\JOEL BOLIVAR GM\Proyecto v2\ProyectoExposoftwareV2\Entity\obj\Debug\netstandard2.0\Entity.AssemblyInfoInputs.cache
+E:\JOEL BOLIVAR GM\Proyecto v2\ProyectoExposoftwareV2\Entity\obj\Debug\netstandard2.0\Entity.AssemblyInfo.cs
+E:\JOEL BOLIVAR GM\Proyecto v2\ProyectoExposoftwareV2\Entity\obj\Debug\netstandard2.0\Entity.dll
+E:\JOEL BOLIVAR GM\Proyecto v2\ProyectoExposoftwareV2\Entity\obj\Debug\netstandard2.0\Entity.pdb
+E:\JOEL BOLIVAR GM\ProyectoExposoftwareV2\Entity\bin\Debug\netstandard2.0\Entity.deps.json
+E:\JOEL BOLIVAR GM\ProyectoExposoftwareV2\Entity\bin\Debug\netstandard2.0\Entity.dll
+E:\JOEL BOLIVAR GM\ProyectoExposoftwareV2\Entity\bin\Debug\netstandard2.0\Entity.pdb
+E:\JOEL BOLIVAR GM\ProyectoExposoftwareV2\Entity\obj\Debug\netstandard2.0\Entity.csprojAssemblyReference.cache
+E:\JOEL BOLIVAR GM\ProyectoExposoftwareV2\Entity\obj\Debug\netstandard2.0\Entity.csproj.CoreCompileInputs.cache
+E:\JOEL BOLIVAR GM\ProyectoExposoftwareV2\Entity\obj\Debug\netstandard2.0\Entity.AssemblyInfoInputs.cache
+E:\JOEL BOLIVAR GM\ProyectoExposoftwareV2\Entity\obj\Debug\netstandard2.0\Entity.AssemblyInfo.cs
+E:\JOEL BOLIVAR GM\ProyectoExposoftwareV2\Entity\obj\Debug\netstandard2.0\Entity.dll
+E:\JOEL BOLIVAR GM\ProyectoExposoftwareV2\Entity\obj\Debug\netstandard2.0\Entity.pdb

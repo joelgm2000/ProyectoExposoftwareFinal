@@ -1,0 +1,91 @@
+<app-menu-top></app-menu-top>
+<div class="row">
+    <app-menu-lateral></app-menu-lateral>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6 offset-md-3">
+                <h5>Gestionar Docente</h5>
+                <form>
+                    <div class="form-row">
+                        <div class="col">
+                        <label>Identificación</label>
+                        <input type="text" name="identificacion" [(ngModel)]="docente.identificacion"
+                            class="form-control" disabled/>
+                        </div>
+                            <div class="col">
+                                <label>Primer Nombre</label>
+                                <input type="text" name="primerNombre" [(ngModel)]="docente.primerNombre" class="form-control" />
+                            </div>
+                    </div>
+                    <div class="form-row">
+                        <div class="col">
+                            <label>Segundo Nombre</label>
+                            <input type="text" name="segundoNombre" [(ngModel)]="docente.segundoNombre"
+                                class="form-control" />
+                        </div>
+                        <div class="col">
+                            <label>Primer Apellido</label>
+                            <input type="text" name="primerApellido"  [(ngModel)]="docente.primerApellido"
+                                class="form-control" />
+                        </div>
+                    </div>
+
+                    <div class="form-row">
+                        <div class="col">
+                            <label>Segundo Apellido</label>
+                            <input type="text" name="segundoApellido" [(ngModel)]="docente.segundoApellido"
+                                class="form-control" />
+                        </div>
+                        <div class="col">
+                            <label>Celular </label>
+                            <input type="text" name="celular" [(ngModel)]="docente.celular" class="form-control" />
+                        </div>
+                    </div>
+
+                    <div class="form-row">
+                        <div class="col">
+                            <label>Correo</label>
+                            <input type="email" name="correo" [(ngModel)]="docente.correo" class="form-control" />
+                        </div>
+                        <div class="col">
+                            <label>Perfil del docente</label>
+                            <input type="text" name="perfil" [(ngModel)]="docente.perfil" class="form-control"/>
+                        </div>
+                    </div>
+
+                    <div class="form-row">
+                        <div class="col">
+                            <label>Area</label>
+                            <select class="form-control" [(ngModel)]="docente.nombreArea" name="nombreArea">
+                                <option *ngFor="let area of areas" value={{area.nombre}}>
+                                    {{area.nombre}}
+                                </option>
+                            </select>
+                        </div>
+                        <div class="col">
+                            <label>Tipo docente</label>
+                            <select class="form-control" [(ngModel)]="docente.tipoDocente" name="tipoDocente">
+                                <option>Lider de proyecto</option>
+                                <option>Comite evaluador</option>
+                                <option>Docente evaluador</option>
+                                <option>Ninguno</option>
+                            </select>
+                        </div>
+                    </div>
+                    <div class="text-center">
+                        <a [routerLink]="['/consultarDocente']">
+                            <button class="btn btn-primary mr-1" (click)="update()">Actualizar</button>
+                        </a>
+                        <a [routerLink]="['/consultarDocente']">
+                            <button class="btn btn-primary mr-1" (click)="delete()">Eliminar</button>
+                        </a>
+                        <a [routerLink]="['/consultarDocente']">
+                            <button class="btn btn-secondary" type="reset">Cancel</button>
+                        </a>
+                    </div>
+                </form>
+
+            </div>
+        </div>
+    </div>
+</div>

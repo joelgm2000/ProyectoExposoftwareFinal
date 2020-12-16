@@ -1,0 +1,11 @@
+C:\programacion-web\exposoftwareProyecto\Datos\bin\Release\netstandard2.1\Datos.deps.json
+C:\programacion-web\exposoftwareProyecto\Datos\bin\Release\netstandard2.1\Datos.dll
+C:\programacion-web\exposoftwareProyecto\Datos\bin\Release\netstandard2.1\Datos.pdb
+C:\programacion-web\exposoftwareProyecto\Datos\bin\Release\netstandard2.1\Entity.dll
+C:\programacion-web\exposoftwareProyecto\Datos\bin\Release\netstandard2.1\Entity.pdb
+C:\programacion-web\exposoftwareProyecto\Datos\obj\Release\netstandard2.1\Datos.csprojAssemblyReference.cache
+C:\programacion-web\exposoftwareProyecto\Datos\obj\Release\netstandard2.1\Datos.AssemblyInfoInputs.cache
+C:\programacion-web\exposoftwareProyecto\Datos\obj\Release\netstandard2.1\Datos.AssemblyInfo.cs
+C:\programacion-web\exposoftwareProyecto\Datos\obj\Release\netstandard2.1\Datos.csproj.CopyComplete
+C:\programacion-web\exposoftwareProyecto\Datos\obj\Release\netstandard2.1\Datos.dll
+C:\programacion-web\exposoftwareProyecto\Datos\obj\Release\netstandard2.1\Datos.pdb

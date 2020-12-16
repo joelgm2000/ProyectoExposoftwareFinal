@@ -1,0 +1,61 @@
+<app-nav-menu></app-nav-menu>
+<div class="container">
+  <h4>Registrar Usuario</h4>
+  <div class="row">
+    <div class="col-md-6">
+      <form [formGroup]="formGroup">
+        <div class="form-group">
+          <div class="form-group">
+            <div class="col">
+              <label for="userName">Nombre de Usuario <span class="obligatorio">*</span></label>
+              <input type="text" name="userName" formControlName="userName" class="form-control"
+                [ngClass]="{'is-invalid': control.userName.errors && formGroup.get('userName').touched}" />
+              <div *ngIf="control.userName.errors && formGroup.get('userName').touched" class="invalid-feedback">
+                <div *ngIf="control.userName.errors.required">Campo requerido</div>
+              </div>
+            </div>
+          </div>
+          <div class="form-group">
+            <div class="col">
+              <label for="email">Correo<span class="obligatorio">*</span></label>
+              <input type="text" name="email" formControlName="email" class="form-control"
+                [ngClass]="{'is-invalid': control.email.errors && formGroup.get('email').touched}" />
+              <div *ngIf="control.email.errors && formGroup.get('email').touched" class="invalid-feedback">
+                <div *ngIf="control.email.errors.required">Campo requerido</div>
+              </div>
+            </div>
+          </div>
+          <div class="form-group">
+            <div class="col">
+              <label for="password">Contraseña</label>
+              <input type="text" name="password" formControlName="password" class="form-control"
+                [ngClass]="{'is-invalid': control.password.errors && formGroup.get('password').touched}" />
+              <div *ngIf="control.password.errors && formGroup.get('password').touched" class="invalid-feedback">
+                <div *ngIf="control.password.errors.required">Campo requerido</div>
+              </div>
+            </div>
+          </div>
+          <div class="form-group">
+            <div class="col">
+              <label for="rol">Tipo docente <span class="obligatorio">*</span></label>
+              <select class="form-control" formControlName="rol" name="rol"
+                [ngClass]="{'is-invalid': control.rol.errors && formGroup.get('rol').touched}">
+                <option>Lider de proyecto</option>
+                <option>Docente evaluador</option>
+              </select>
+              <div *ngIf="control.rol.errors && formGroup.get('rol').touched" class="invalid-feedback">
+                <div *ngIf="control.rol.errors.required">Seleccione una opción</div>
+              </div>
+            </div>
+          </div>
+          <div class="text-center">
+            <div class="form-group">
+              <button type="button" class="btn btn-primary" (click)="onSubmit()"
+              [disabled]="formGroup.invalid"> Registrar</button>
+            </div>
+          </div>
+        </div>
+      </form>
+    </div>
+  </div>
+</div>

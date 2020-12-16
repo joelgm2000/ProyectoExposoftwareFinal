@@ -1,0 +1,58 @@
+<app-menu-top></app-menu-top>
+<div class="row">
+    <app-menu-lateral></app-menu-lateral>
+    <div class="container">
+        <h5>Registrar Rúbrica<span class="obligatorio"> * Obligatorio</span></h5>
+        <form [formGroup]="formGroupRubrica">
+            <div class="form-row">
+                <div class="col-3">
+                    <label for="idRubrica">Código <span class="obligatorio">*</span></label>
+                    <input type="text" name="idRubrica" formControlName="idRubrica" class="form-control"
+                        [ngClass]="{'is-invalid': control.idRubrica.errors && formGroupRubrica.get('idRubrica').touched}" />
+                    <div *ngIf="control.idRubrica.errors && formGroupRubrica.get('idRubrica').touched"
+                        class="invalid-feedback">
+                        <div *ngIf="control.idRubrica.errors.required">Campo requerido</div>
+                    </div>
+                </div>
+                <div class="col-4">
+                    <label for="idArea">Area<span class="obligatorio">*</span> </label>
+                    <select class="form-control" formControlName="idArea" name="idArea"
+                        [ngClass]="{'is-invalid': control.idArea.errors && formGroupRubrica.get('idArea').touched}">
+                        <option *ngFor="let area of areas" value={{area.idArea}}>
+                            {{area.nombre}}
+                        </option>
+                    </select>
+                    <div *ngIf="control.idArea.errors && formGroupRubrica.get('idArea').touched"
+                        class="invalid-feedback">
+                        <div *ngIf="control.idArea.errors.required">Campo requerido</div>
+                    </div>
+                </div>
+            </div>
+           <br>
+            <form [formGroup]="formGroupItems">
+                <div formArrayName="items" *ngFor="let item of items.controls; let i = index">
+                    <div [formGroupName]="i">
+                        <div class="form-group row">
+                            <label class="col-md-1" [attr.for]="'item' + i">Item</label>
+                            <div class="col-md-3">
+                                <input type="text" [attr.id]="'item' + i" class="form-control" formControlName="item">
+                            </div>
+                            <label class="col-md-2" [attr.for]="'descripcion' + i">Descripcion</label>
+                            <div class="col-md-4">
+                                <input type="text" [attr.id]="'descripcion' + i" class="form-control" formControlName="descripcion">
+                            </div>
+                            <button class="btn btn-danger" (click)="removerItems(i)">Remover</button>
+                        </div>
+                    </div>
+                </div>
+
+            </form>
+            <button id="botones" class="btn btn-success" (click)="agregarItems()">Agregar Item</button>
+            <div class="text-center">
+                <button id="botones" class="btn btn-success" (click)="onSubmit()"
+                    [disabled]="formGroupRubrica.invalid">Guardar</button>
+                <button id="botones" class="btn btn-success" type="reset">Cancelar</button>
+            </div>
+        </form>
+    </div>
+</div>

@@ -1,0 +1,61 @@
+<div class="lateral">
+    <ngb-accordion #acc="ngbAccordion" activeIds="ngb-panel-0" type="success">
+      <ngb-panel>
+        <ng-template ngbPanelTitle>
+          <span>Area</span>
+        </ng-template>
+        <ng-template ngbPanelContent>
+          <ul>
+            <li><a [routerLink]="['/AreaRegistro']">Registrar area</a></li>
+            <li><a [routerLink]="['/AreaConsulta']">Consultar area</a></li>
+          </ul>
+        </ng-template>
+      </ngb-panel>
+      <ngb-panel>
+        <ng-template ngbPanelTitle>
+          <span>Asignatura</span>
+        </ng-template>
+        <ng-template ngbPanelContent>
+          <ul>
+            <li><a [routerLink]="['/AsignaturaRegistro']">Registrar asignatura</a></li>
+            <li><a [routerLink]="['/AsignaturaConsulta']">Consultar asignatura</a></li>
+          </ul>
+        </ng-template>
+      </ngb-panel>
+      <ngb-panel>
+        <ng-template ngbPanelTitle>
+          <span>Docente</span>
+        </ng-template>
+        <ng-template ngbPanelContent>
+          <ul>
+            <li><a [routerLink]="['/RegistrarDocente']">Registrar docentes</a></li>
+            <li><a [routerLink]="['/consultarDocente']">Consultar docentes</a></li>
+          </ul>
+        </ng-template>
+      </ngb-panel>
+      <ngb-panel>
+        <ng-template ngbPanelTitle>
+          <span>Rúbrica</span>
+        </ng-template>
+        <ng-template ngbPanelContent>
+          <ul>
+            <li><a [routerLink]="['/rubricaRegistro']">Registrar rúbrica</a></li>
+            <li><a [routerLink]="['/rubricaConsulta']">Consultar rúbrica</a></li>
+          </ul>
+        </ng-template>
+      </ngb-panel>
+      <ngb-panel>
+        <ng-template ngbPanelTitle>
+          <span>Evaluar</span>
+        </ng-template>
+        <ng-template ngbPanelContent>
+          <ul>
+            <li><a [routerLink]="['/inscripcionConsulta']">Consultar inscripción</a></li>
+            <li><a [routerLink]="['/pendonConsulta']">Consultar pendón</a></li>
+            <li><a [routerLink]="['/asignarProyectos']">Asignar proyectos</a></li>
+          </ul>
+        </ng-template>
+      </ngb-panel>
+     
+    </ngb-accordion>
+  </div>

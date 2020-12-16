@@ -1,0 +1,2 @@
+ExposoftwaredotnetTests.loginTest.ValidandoLoginTest("admin","admin")
+ExposoftwaredotnetTests.loginTest.ValidandoLoginTest("ana","1258")

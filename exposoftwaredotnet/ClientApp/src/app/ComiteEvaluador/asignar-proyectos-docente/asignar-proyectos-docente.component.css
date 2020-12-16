@@ -1,0 +1,11 @@
+label, h5,h6{
+    color:#202124;
+    font-family: Arial, Helvetica, sans-serif;
+}
+label{
+    font-size: 14px;
+}
+
+#botones{
+    margin: 5px;
+}

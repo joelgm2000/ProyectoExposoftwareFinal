@@ -1,0 +1,48 @@
+<div class="container">
+    <div class="row" id="label">
+        <label for="id" >Digite Código del proyecto</label>
+        <div class="col-2">
+            <input type="number" name="idProyecto" [(ngModel)]="idProyecto" class="form-control" />
+        </div>
+        <div class="col">
+            <button class="btn btn-success" (click)="buscar()" type="button">Buscar</button>
+        </div>
+    </div>
+    <div class="row">
+        <div class="form-row">
+            <div class="form-group">
+                <div *ngFor="let item of itemsRubrica">
+                            <div class="col">
+                                <label >Item:  {{ item.item }}</label>
+                            </div>
+                                <label>Descripción: </label>
+                                <div class="col">
+                                    <label>{{ item.descripcion }}</label>
+                                </div>
+                    <br>
+                </div>
+            </div>
+            <div class="form-group">
+                <h6>Valoracion 0-100</h6>
+                <div class="col-5">
+                    <input type="number" name="valor1" [(ngModel)]="valor1" class="form-control" />
+                </div>
+                <div class="col-5">
+                    <input type="number" name="valor2" [(ngModel)]="valor2" class="form-control" />
+                </div>
+                <div class="col-5">
+                    <input type="number" name="valor3" [(ngModel)]="valor3" class="form-control" />
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="form-group">
+        <label for="">Total del puntaje</label>
+        <div class="col-5">
+            <input type="number" name="total" [(ngModel)]="total" class="form-control"/>
+        </div>
+        
+    </div>
+    
+</div>

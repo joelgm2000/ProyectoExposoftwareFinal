@@ -1,0 +1,46 @@
+<app-nav-menu></app-nav-menu>
+<div class="container">
+  <ngb-carousel *ngIf="images">
+    <ng-template ngbSlide>
+      <div class="picsum-img-wrapper">
+        <img src="../../assets//noticias.jpg" alt="Noticias" >
+      </div>
+    </ng-template>
+    <ng-template ngbSlide>
+      <div class="picsum-img-wrapper">
+        <img src="../../assets/docentes.jpg" alt="Upc" height="491" width="1170">
+      </div>
+    </ng-template>
+    <ng-template ngbSlide>
+      <div class="picsum-img-wrapper">
+        <img src="../../assets/yoamoupc.jpg" alt="Alumnos" height="491" width="1170">
+      </div>
+    </ng-template>
+    <ng-template ngbSlide>
+      <div class="picsum-img-wrapper">
+        <img src="../../assets/codigo.jpg" alt="Exposoftware" height="491" width="1170">
+      </div>
+    </ng-template>
+  </ngb-carousel>
+  <div class="row">
+    <div class="col-sm-6 mt-4">
+      <div class="card">
+        <div class="card-body">
+          <h6 class="card-title">INSCRIBE TU PROYECTO</h6>
+          <p class="card-text">La Universidad Popular Del Cesar abre su convocatoria para la competencia Exposoftware.</p>
+          <a [routerLink]="['/docenteRegistro']" class="btn btn-success btn-sm">INSCRIPCIÓN</a>
+        </div>
+      </div>
+    </div>
+    <div class="col-sm-6 mt-4">
+      <div class="card">
+        <div class="card-body">
+          <h6 class="card-title">INFORMACIÓN</h6>
+          <p class="card-text">Jornada Científica De Investigación Tecnológica ofrecida por la Universidad Popular Del
+            Cesar.</p>
+          <a [routerLink]="['/Informacion']" class="btn btn-success btn-sm">INFORMACIÓN</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

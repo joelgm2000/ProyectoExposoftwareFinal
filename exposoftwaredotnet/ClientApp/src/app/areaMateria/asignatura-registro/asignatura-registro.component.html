@@ -1,0 +1,53 @@
+<app-menu-top></app-menu-top>
+<div class="row">
+    <app-menu-lateral></app-menu-lateral>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-9 offset-md-1">
+                <h5>Registrar Asignatura<span class="obligatorio"> * Obligatorio</span></h5>
+                <form [formGroup]="formGroup">
+                    <div class="form-group">
+                        <label for="idAsignatura">Código <span class="obligatorio">*</span></label>
+                        <input type="text" name="idAsignatura" formControlName="idAsignatura" class="form-control"
+                            [ngClass]="{'is-invalid': control.idAsignatura.errors && formGroup.get('idAsignatura').touched}" />
+                        <div *ngIf="control.idAsignatura.errors && formGroup.get('idAsignatura').touched"
+                            class="invalid-feedback">
+                            <div *ngIf="control.idAsignatura.errors.required">Campo requerido</div>
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="nombre">Nombre de la asignatura<span class="obligatorio">*</span></label>
+                        <input type="text" name="nombre" formControlName="nombre"
+                            class="form-control"
+                            [ngClass]="{'is-invalid': control.nombre.errors && formGroup.get('nombre').touched}" />
+                        <div *ngIf="control.nombre.errors && formGroup.get('nombre').touched"
+                            class="invalid-feedback">
+                            <div *ngIf="control.nombre.errors.required">Campo requerido</div>
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="nombreArea">Area<span class="obligatorio">*</span> </label>
+                        <select class="form-control" formControlName="nombreArea" name="nombreArea"
+                            [ngClass]="{'is-invalid': control.nombreArea.errors && formGroup.get('nombreArea').touched}">
+                            <option *ngFor="let area of areas" value={{area.nombre}}>
+                                {{area.nombre}}
+                            </option>
+                        </select>
+                        <div *ngIf="control.nombreArea.errors && formGroup.get('nombreArea').touched" class="invalid-feedback">
+                            <div *ngIf="control.nombreArea.errors.required">Campo requerido</div>
+                        </div>
+                    </div>
+
+                    <div class="text-center">
+                        <button id="botones" class="btn btn-success" (click)="onSubmit()"
+                            [disabled]="formGroup.invalid">Guardar</button>
+                        <button id="botones" class="btn btn-success" type="reset">Cancelar</button>
+                    </div>
+
+                </form>
+            </div>
+        </div>
+    </div>
+</div>

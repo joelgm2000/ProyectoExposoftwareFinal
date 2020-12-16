@@ -1,0 +1,88 @@
+<app-menu-top></app-menu-top>
+<div class="row">
+    <app-menulaterallider></app-menulaterallider>
+    <div class="container">
+        <div class="row">
+            <div class="col">
+                <h6>Digite código del pendón</h6>
+                    <div class="row">
+                        <div class="col-2">
+                            <input type="text" name="id" [(ngModel)]="id" class="form-control" />
+                        </div>
+                        <div class="col">
+                            <button class="btn btn-success" (click)="buscar()" type="button">Buscar</button>
+                        </div>
+                    </div>
+                <form>
+                    <div class="form-row">
+                        <div class="col-md-3" >
+                            <label>Código del proyecto</label>
+                            <input type="text" name="idProyecto" [(ngModel)]="pendon.idProyecto" class="form-control" disabled>
+                        </div>
+                        <div class="col-md-5">
+                            <label>Título del proyecto</label>
+                            <input type="text" name="titulo" [(ngModel)]="pendon.titulo" class="form-control" disabled>
+                        </div>
+                    </div>
+
+                    <div class="form-row">
+                        <div class="col">
+                            <label>Introducción</label>
+                            <textarea class="form-control" [(ngModel)]="pendon.introduccion" rows="3"
+                                name="introduccion"></textarea>
+                        </div>
+                        <div class="col">
+                            <label>Metodológia</label>
+                            <textarea class="form-control" [(ngModel)]="pendon.metodologia" rows="3"
+                                name="metodologia"></textarea>
+                        </div>
+                    </div>
+
+                    <div class="form-row">
+                        <div class="col">
+                            <label>Resultados</label>
+                            <textarea class="form-control" [(ngModel)]="pendon.resultados" rows="3"
+                                name="resultados"></textarea>
+                        </div>
+                        <div class="col">
+                            <label>Objetivos</label>
+                            <textarea class="form-control" [(ngModel)]="pendon.objetivos" rows="3"
+                                name="objetivos"></textarea>
+                        </div>
+                    </div>
+
+                    <div class="form-row">
+                        <div class="col">
+                            <label>Conclusión</label>
+                            <textarea class="form-control" [(ngModel)]="pendon.conclusion" rows="1"
+                                name="conclusion"></textarea>
+                        </div>
+                        <div class="col">
+                            <label>Referencias Bibliograficas</label>
+                            <textarea class="form-control" [(ngModel)]="pendon.referencias" rows="3"
+                                name="referencias"></textarea>
+                        </div>
+
+                    </div>
+                    <div class="form-row">
+                        <div class="col-md-3" >
+                            <label>Estado</label>
+                            <input type="text" name="estado" [(ngModel)]="pendon.estado" class="form-control" disabled>
+                        </div>
+                    
+                        <div class="col">
+                            <label>Observación</label>
+                            <textarea class="form-control" [(ngModel)]="pendon.observacion" rows="1"
+                                name="observacion" disabled></textarea>
+                        </div>
+                    </div>
+                    <div class="text-center">
+                        <button id="botones" class="btn btn-primary mr-1" (click)="update()">Actualizar</button>
+
+                        <button id="botones" class="btn btn-secondary" type="reset">Cancel</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,18 @@
+C:\programacion-web\exposoftwareProyecto\Entity\bin\Debug\netstandard2.1\Entity.deps.json
+C:\programacion-web\exposoftwareProyecto\Entity\bin\Debug\netstandard2.1\Entity.dll
+C:\programacion-web\exposoftwareProyecto\Entity\bin\Debug\netstandard2.1\Entity.pdb
+C:\programacion-web\exposoftwareProyecto\Entity\obj\Debug\netstandard2.1\Entity.csprojAssemblyReference.cache
+C:\programacion-web\exposoftwareProyecto\Entity\obj\Debug\netstandard2.1\Entity.AssemblyInfoInputs.cache
+C:\programacion-web\exposoftwareProyecto\Entity\obj\Debug\netstandard2.1\Entity.AssemblyInfo.cs
+C:\programacion-web\exposoftwareProyecto\Entity\obj\Debug\netstandard2.1\Entity.dll
+C:\programacion-web\exposoftwareProyecto\Entity\obj\Debug\netstandard2.1\Entity.pdb
+C:\programacion-web\exposoftwareProyecto\Entity\obj\Debug\netstandard2.1\Entity.csproj.CoreCompileInputs.cache
+D:\Paginas web\ProyectoExposoftwareV2\Entity\bin\Debug\netstandard2.1\Entity.deps.json
+D:\Paginas web\ProyectoExposoftwareV2\Entity\bin\Debug\netstandard2.1\Entity.dll
+D:\Paginas web\ProyectoExposoftwareV2\Entity\bin\Debug\netstandard2.1\Entity.pdb
+D:\Paginas web\ProyectoExposoftwareV2\Entity\obj\Debug\netstandard2.1\Entity.csprojAssemblyReference.cache
+D:\Paginas web\ProyectoExposoftwareV2\Entity\obj\Debug\netstandard2.1\Entity.csproj.CoreCompileInputs.cache
+D:\Paginas web\ProyectoExposoftwareV2\Entity\obj\Debug\netstandard2.1\Entity.AssemblyInfoInputs.cache
+D:\Paginas web\ProyectoExposoftwareV2\Entity\obj\Debug\netstandard2.1\Entity.AssemblyInfo.cs
+D:\Paginas web\ProyectoExposoftwareV2\Entity\obj\Debug\netstandard2.1\Entity.dll
+D:\Paginas web\ProyectoExposoftwareV2\Entity\obj\Debug\netstandard2.1\Entity.pdb

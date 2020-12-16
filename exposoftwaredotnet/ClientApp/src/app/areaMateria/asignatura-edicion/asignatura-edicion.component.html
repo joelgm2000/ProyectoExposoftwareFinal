@@ -1,0 +1,42 @@
+<app-menu-top></app-menu-top>
+<div class="row">
+    <app-menu-lateral></app-menu-lateral>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6 offset-md-3">
+                <h5>Gestionar Asignatura</h5>
+                <form>
+                    <div class="form-group">
+                        <label>Codigo</label>
+                        <input type="text" name="idAsignatura" [(ngModel)]="asignatura.idAsignatura"
+                            class="form-control" />
+                    </div>
+                    <div class="form-group">
+                        <label>Nombre</label>
+                        <input type="text" name="nombre" [(ngModel)]="asignatura.nombre" class="form-control" />
+                    </div>
+                    <div class="form-group">
+                        <label for="nombreArea">Area</label>
+                        <select class="form-control" name="nombreArea">
+                            <option *ngFor="let area of areas" value={{area.nombre}}>
+                                {{area.nombre}}
+                            </option>
+                        </select>
+                    </div>
+                    <div class="text-center">
+                        <a [routerLink]="['/AsignaturaConsulta']">
+                            <button class="btn btn-primary mr-1" (click)="update()">Actualizar</button>
+                        </a>
+                        <a [routerLink]="['/AsignaturaConsulta']">
+                            <button class="btn btn-primary mr-1" (click)="delete()">Eliminar</button>
+                        </a>
+                        <a [routerLink]="['/AsignaturaConsulta']">
+                            <button class="btn btn-secondary" type="reset">Cancel</button>
+                        </a>
+                    </div>
+                </form>
+
+            </div>
+        </div>
+    </div>
+</div>

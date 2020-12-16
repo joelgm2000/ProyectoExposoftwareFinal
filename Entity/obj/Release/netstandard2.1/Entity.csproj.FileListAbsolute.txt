@@ -1,0 +1,8 @@
+C:\programacion-web\exposoftwareProyecto\Entity\bin\Release\netstandard2.1\Entity.deps.json
+C:\programacion-web\exposoftwareProyecto\Entity\bin\Release\netstandard2.1\Entity.dll
+C:\programacion-web\exposoftwareProyecto\Entity\bin\Release\netstandard2.1\Entity.pdb
+C:\programacion-web\exposoftwareProyecto\Entity\obj\Release\netstandard2.1\Entity.csprojAssemblyReference.cache
+C:\programacion-web\exposoftwareProyecto\Entity\obj\Release\netstandard2.1\Entity.AssemblyInfoInputs.cache
+C:\programacion-web\exposoftwareProyecto\Entity\obj\Release\netstandard2.1\Entity.AssemblyInfo.cs
+C:\programacion-web\exposoftwareProyecto\Entity\obj\Release\netstandard2.1\Entity.dll
+C:\programacion-web\exposoftwareProyecto\Entity\obj\Release\netstandard2.1\Entity.pdb

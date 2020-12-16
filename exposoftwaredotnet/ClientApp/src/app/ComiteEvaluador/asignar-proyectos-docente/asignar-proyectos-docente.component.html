@@ -1,0 +1,41 @@
+<app-menu-top></app-menu-top>
+<div class="row">
+    <app-menu-lateral></app-menu-lateral>
+    <div class="container">
+        <h6>Asignar proyecto a docente</h6>
+        <form>
+            <div class="row">
+                <div class="col">
+                    <label>Código del proyecto</label>
+                    <input type="number" name="idProyecto" [(ngModel)]="proyecto.idProyecto" class="form-control">
+                </div>
+                <div class="col">
+                    <label>Identificación docente</label>
+                    <input type="text" name="identificacion" [(ngModel)]="proyecto.identificacion" class="form-control">
+                </div>
+            </div>
+            <div class="row">
+                <div class="col">
+                    <label>Rubrica</label>
+                    <input type="text" name="idRubrica" [(ngModel)]="rubrica.idRubrica" class="form-control">
+                </div>
+                <div class="col">
+                    <label>Area</label>
+                    <input type="text" name="idArea" [(ngModel)]="rubrica.idArea" class="form-control">
+                </div>
+                <div class="col-md-5">
+                    <label for="evaluador">Docentes evaluadores</label>
+                    <select class="form-control" name="evaluador" [(ngModel)]="evaluador">
+                        <option *ngFor="let docente of docentes" value={{docente.identificacion}}>
+                            {{docente.identificacion}}
+                        </option>
+                    </select>
+                </div>
+            </div>
+            <div class="text-center">
+                <button id="botones" class="btn btn-success" type="button" (click)="add()"
+                    >Asignar</button>
+                <button id="botones" class="btn btn-success" type="reset">Cancelar</button>
+            </div>
+        </form>
+    </div>

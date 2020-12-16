@@ -1,0 +1,86 @@
+<app-menu-top></app-menu-top>
+<div class="row">
+  <app-menu-lateral></app-menu-lateral>
+  <div class="container">
+    <div class="row">
+      <div class="col">
+        <h5>EVALUAR PENDÓN</h5>
+        <form>
+          <div class="form-row">
+            <div class="col-md-2">
+              <label>Código del pendón</label>
+              <input type="text" [(ngModel)]="pendon.idPendon" class="form-control" name="idPendon" />
+            </div>
+            <div class="col-md-3">
+              <label>Líder del proyecto</label>
+              <input type="text" name="docente"  [(ngModel)]="docente" class="form-control">
+          </div>
+            <div class="col">
+              <label>Título del proyecto</label>
+              <input type="text" [(ngModel)]="pendon.titulo" class="form-control" name="titulo">
+            </div>
+          </div>
+          <div class="form-row">
+            <div class="col">
+              <label>Introducción</label>
+              <textarea class="form-control" [(ngModel)]="pendon.introduccion" rows="3" name="introduccion"></textarea>
+            </div>
+            <div class="col">
+              <label>Metodológia</label>
+              <textarea class="form-control" [(ngModel)]="pendon.metodologia" rows="3" name="metodologia"></textarea>
+            </div>
+          </div>
+
+          <div class="form-row">
+            <div class="col">
+              <label>Resultados</label>
+              <textarea class="form-control" [(ngModel)]="pendon.resultados" rows="3" name="resultados"></textarea>
+            </div>
+            <div class="col">
+              <label>Objetivos</label>
+              <textarea class="form-control" [(ngModel)]="pendon.objetivos" rows="3" name="objetivos"></textarea>
+            </div>
+          </div>
+
+          <div class="form-row">
+
+            <div class="col">
+              <label>Conclusión</label>
+              <textarea class="form-control" [(ngModel)]="pendon.conclusion" rows="3" name="conclusion"></textarea>
+            </div>
+
+            <div class="col">
+              <label>Referencias</label>
+              <textarea class="form-control" [(ngModel)]="pendon.referencias" rows="3" name="referencias"></textarea>
+            </div>
+
+          </div>
+
+          <div class="form-row">
+            <div class="col-3">
+              <label>Estado </label>
+              <select class="form-control" [(ngModel)]="pendon.estado" name="estado">
+                <option>Aceptado</option>
+                <option>Modificar</option>
+              </select>
+            </div>
+            <div class="col">
+              <label>Observaciones</label>
+              <textarea class="form-control" rows="1" [(ngModel)]="pendon.observacion" name="observacion"></textarea>
+            </div>
+          </div>
+
+          <div class="text-center">
+            <a [routerLink]="['/pendonConsulta']">
+              <button id="botones" class="btn btn-primary mr-1" (click)="update()">Actualizar</button>
+            </a>
+            <a [routerLink]="['/pendonConsulta']">
+              <button id="botones" class="btn btn-secondary" type="reset">Cancel</button>
+            </a>
+          </div>
+        </form>
+
+      </div>
+    </div>
+  </div>
+</div>

@@ -1,0 +1,59 @@
+<app-nav-menu></app-nav-menu>
+<div class="container">
+    <h4>Iniciar Sesión</h4>
+    <div class="row">
+      <div class="col-md-6">
+        <form [formGroup]="loginForm" (ngSubmit)="onSubmit()">
+          <div class="form-group">
+            <div class="form-group">
+              <div class="col">
+                <label for="username">Nombre de Usuario <span class="obligatorio">*</span></label>
+                <input id="txtnameUser" type="text" name="username" formControlName="username" class="form-control"
+                  [ngClass]="{'is-invalid': submitted && f.username.errors }" />
+                <div *ngIf="submitted && f.username.errors" class="invalid-feedback">
+                  <div *ngIf="f.username.errors.required">Campo requerido</div>
+                </div>
+              </div>
+            </div>
+            <!--           <div class="form-group">
+            <div class="col">
+              <label for="email">Correo<span class="obligatorio">*</span></label>
+              <input type="text" name="email" formControlName="email" class="form-control"
+                [ngClass]="{'is-invalid': control.email.errors && formGroup.get('email').touched}" />
+              <div *ngIf="control.email.errors && formGroup.get('email').touched" class="invalid-feedback">
+                <div *ngIf="control.email.errors.required">Campo requerido</div>
+              </div>
+            </div>
+          </div> -->
+            <div class="form-group">
+              <div class="col">
+                <label for="password">Contraseña</label>
+                <input id="txtPassword" type="password" name="password" formControlName="password" class="form-control"
+                  [ngClass]="{'is-invalid':  submitted && f.password.errors}" />
+                <div *ngIf="submitted && f.password.errors" class="invalid-feedback">
+                  <div *ngIf="f.password.errors.required">Campo requerido</div>
+                </div>
+              </div>
+            </div>
+            <!--   <div class="form-group">
+            <label for="rol">Tipo docente <span class="obligatorio">*</span></label>
+            <input type="text" name="rol" formControlName="rol" class="form-control"
+                [ngClass]="{'is-invalid': control.rol.errors && formGroup.get('rol').touched}" />
+            <div *ngIf="control.rol.errors && formGroup.get('rol').touched" class="invalid-feedback">
+              <div *ngIf="control.rol.errors.required">Seleccione una opción</div>
+            </div>
+          </div> -->
+          <a [routerLink]="['/usuarioRegistro']">Registrarse</a>
+            <div class="text-center">
+              <div class="form-group">
+                <button [disabled]="loading" class="btn btn-primary" id="btnLogin">
+                  <span *ngIf="loading" class="spinner-border spinner-border-sm mr-1"></span>
+                  Login
+                </button>
+              </div>
+            </div>
+          </div>
+        </form>
+      </div>
+    </div>
+</div>

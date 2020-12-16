@@ -1,0 +1,98 @@
+<app-menu-top></app-menu-top>
+<div class="row">
+    <app-menulaterallider></app-menulaterallider>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-9">
+                <h5>Registrar Pendón <span class="obligatorio">* Obligatorio</span></h5>
+                <form [formGroup]="formGroup">
+                    <div class="form-row">
+                        <div class="col">
+                            <label for="idProyecto">Código del proyecto <span class="obligatorio">*</span></label>
+                            <input type="number" name="idProyecto" formControlName="idProyecto" class="form-control"
+                                [ngClass]="{'is-invalid': control.idProyecto.errors && formGroup.get('idProyecto').touched}" />
+                            <div *ngIf="control.idProyecto.errors && formGroup.get('idProyecto').touched"
+                                class="invalid-feedback">
+                                <div *ngIf="control.idProyecto.errors.required">Campo requerido</div>
+                            </div>
+                        </div>
+                        <div class="col">
+                            <label for="titulo">Título<span class="obligatorio">*</span></label>
+                            <input type="text" name="titulo" formControlName="titulo" class="form-control"
+                                [ngClass]="{'is-invalid': control.titulo.errors && formGroup.get('titulo').touched}" />
+                            <div *ngIf="control.titulo.errors && formGroup.get('titulo').touched"
+                                class="invalid-feedback">
+                                <div *ngIf="control.titulo.errors.required">Campo requerido</div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="form-row">
+                        <div class="col">
+                            <label for="introduccion">Introducción<span class="obligatorio">*</span> </label>
+                            <textarea class="form-control" formControlName="introduccion" rows="3" name="introduccion"
+                                [ngClass]="{'is-invalid': control.introduccion.errors && formGroup.get('introduccion').touched}"></textarea>
+                            <div *ngIf="control.introduccion.errors && formGroup.get('introduccion').touched"
+                                class="invalid-feedback">
+                                <div *ngIf="control.introduccion.errors.required">Campo requerido</div>
+                            </div>
+                        </div>
+                        <div class="col">
+                            <label for="metodologia">Metodológia<span class="obligatorio">*</span> </label>
+                            <textarea class="form-control" formControlName="metodologia" rows="3" name="metodologia"
+                                [ngClass]="{'is-invalid': control.metodologia.errors && formGroup.get('metodologia').touched}"></textarea>
+                            <div *ngIf="control.metodologia.errors && formGroup.get('metodologia').touched"
+                                class="invalid-feedback">
+                                <div *ngIf="control.metodologia.errors.required">Campo requerido</div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="form-row">
+                        <div class="col">
+                            <label for="resultados">Resultados<span class="obligatorio">*</span> </label>
+                            <textarea class="form-control" formControlName="resultados" rows="3" name="resultados"
+                                [ngClass]="{'is-invalid': control.resultados.errors && formGroup.get('resultados').touched}"></textarea>
+                            <div *ngIf="control.resultados.errors && formGroup.get('resultados').touched"
+                                class="invalid-feedback">
+                                <div *ngIf="control.resultados.errors.required">Campo requerido</div>
+                            </div>
+                        </div>
+                        <div class="col">
+                            <label for="objetivos">Objetivos<span class="obligatorio">*</span> </label>
+                            <textarea class="form-control" formControlName="objetivos" rows="3" name="objetivos"
+                                [ngClass]="{'is-invalid': control.objetivos.errors && formGroup.get('objetivos').touched}"></textarea>
+                            <div *ngIf="control.objetivos.errors && formGroup.get('objetivos').touched"
+                                class="invalid-feedback">
+                                <div *ngIf="control.objetivos.errors.required">Campo requerido</div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="form-row">
+                        <div class="col">
+                            <label for="conclusion">Conclusión<span class="obligatorio">*</span> </label>
+                            <textarea class="form-control" formControlName="conclusion" rows="3" name="conclusion"
+                                [ngClass]="{'is-invalid': control.conclusion.errors && formGroup.get('conclusion').touched}"></textarea>
+                            <div *ngIf="control.conclusion.errors && formGroup.get('conclusion').touched"
+                                class="invalid-feedback">
+                                <div *ngIf="control.conclusion.errors.required">Campo requerido</div>
+                            </div>
+                        </div>
+                        <div class="col">
+                            <label for="referencias">Referencias<span class="obligatorio">*</span> </label>
+                            <textarea class="form-control" formControlName="referencias" rows="3" name="referencias"
+                                [ngClass]="{'is-invalid': control.referencias.errors && formGroup.get('referencias').touched}"></textarea>
+                            <div *ngIf="control.referencias.errors && formGroup.get('referencias').touched"
+                                class="invalid-feedback">
+                                <div *ngIf="control.referencias.errors.required">Campo requerido</div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="text-center">
+                        <button id="botones" class="btn btn-success" type="button"(click)="onSubmit()"
+                        [disabled]="formGroup.invalid">Guardar</button>
+                        <button id="botones" class="btn btn-success" type="reset">Cancelar</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>

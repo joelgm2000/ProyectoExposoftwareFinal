@@ -1,0 +1,30 @@
+<app-menu-top></app-menu-top>
+<div class="row">
+    <app-menu-lateral></app-menu-lateral>
+    <div class="container">
+        <div class="col-6">
+            <input [(ngModel)]="searchText" type="text" class="form-control" placeholder="Buscar Area">
+        </div>
+
+        <table class="table table-hover" *ngIf='areas && areas.length'>
+            <thead>
+                <tr>
+                    <th scope="col">#</th>
+                    <th scope="col">Código</th>
+                    <th scope="col">Nombre</th>
+                    <th scope="col">Acción</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr *ngFor="let area of areas|filtroArea:searchText;index as i ">
+                    <th scope="row">{{ i + 1 }}</th>
+                    <td>{{ area.idArea }} </td>
+                    <td>{{ area.nombre }}</td>
+                    <td> <a routerLink='/areaEdicion/{{area.idArea}}'>
+                    <img src="../../../assets/editarP.png" alt="Editar/Eliminar">
+                    </a></td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</div>

@@ -1,0 +1,24 @@
+C:\programacion-web\exposoftwareProyecto\Datos\bin\Debug\netstandard2.1\Datos.deps.json
+C:\programacion-web\exposoftwareProyecto\Datos\bin\Debug\netstandard2.1\Datos.dll
+C:\programacion-web\exposoftwareProyecto\Datos\bin\Debug\netstandard2.1\Datos.pdb
+C:\programacion-web\exposoftwareProyecto\Datos\bin\Debug\netstandard2.1\Entity.dll
+C:\programacion-web\exposoftwareProyecto\Datos\bin\Debug\netstandard2.1\Entity.pdb
+C:\programacion-web\exposoftwareProyecto\Datos\obj\Debug\netstandard2.1\Datos.csprojAssemblyReference.cache
+C:\programacion-web\exposoftwareProyecto\Datos\obj\Debug\netstandard2.1\Datos.AssemblyInfoInputs.cache
+C:\programacion-web\exposoftwareProyecto\Datos\obj\Debug\netstandard2.1\Datos.AssemblyInfo.cs
+C:\programacion-web\exposoftwareProyecto\Datos\obj\Debug\netstandard2.1\Datos.csproj.CopyComplete
+C:\programacion-web\exposoftwareProyecto\Datos\obj\Debug\netstandard2.1\Datos.dll
+C:\programacion-web\exposoftwareProyecto\Datos\obj\Debug\netstandard2.1\Datos.pdb
+C:\programacion-web\exposoftwareProyecto\Datos\obj\Debug\netstandard2.1\Datos.csproj.CoreCompileInputs.cache
+D:\Paginas web\ProyectoExposoftwareV2\Datos\bin\Debug\netstandard2.1\Datos.deps.json
+D:\Paginas web\ProyectoExposoftwareV2\Datos\bin\Debug\netstandard2.1\Datos.dll
+D:\Paginas web\ProyectoExposoftwareV2\Datos\bin\Debug\netstandard2.1\Datos.pdb
+D:\Paginas web\ProyectoExposoftwareV2\Datos\bin\Debug\netstandard2.1\Entity.dll
+D:\Paginas web\ProyectoExposoftwareV2\Datos\bin\Debug\netstandard2.1\Entity.pdb
+D:\Paginas web\ProyectoExposoftwareV2\Datos\obj\Debug\netstandard2.1\Datos.csprojAssemblyReference.cache
+D:\Paginas web\ProyectoExposoftwareV2\Datos\obj\Debug\netstandard2.1\Datos.csproj.CoreCompileInputs.cache
+D:\Paginas web\ProyectoExposoftwareV2\Datos\obj\Debug\netstandard2.1\Datos.AssemblyInfoInputs.cache
+D:\Paginas web\ProyectoExposoftwareV2\Datos\obj\Debug\netstandard2.1\Datos.AssemblyInfo.cs
+D:\Paginas web\ProyectoExposoftwareV2\Datos\obj\Debug\netstandard2.1\Datos.csproj.CopyComplete
+D:\Paginas web\ProyectoExposoftwareV2\Datos\obj\Debug\netstandard2.1\Datos.dll
+D:\Paginas web\ProyectoExposoftwareV2\Datos\obj\Debug\netstandard2.1\Datos.pdb

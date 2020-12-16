@@ -1,0 +1,127 @@
+<app-nav-menu></app-nav-menu>
+<div class="container">
+    <h6>JORNADA CIENTÍFICA DE INVESTIGACIÓN TECNOLÓGICA</h6>
+    <h6>Inscripción de proyectos</h6>
+    <div class="row">
+        <div class="col-md-9 offset-md-1">
+            <h6>Datos del Docente <span class="obligatorio">* Obligatorio</span></h6>
+            <form [formGroup]="formGroup">
+                
+                <div class="form-group">
+                    <label for="identificacion">Identificación <span class="obligatorio">*</span></label>
+                    <div class="form-row">
+                        <div class="col">
+                            <input type="text" name="identificacion" formControlName="identificacion" class="form-control"
+                            [ngClass]="{'is-invalid': control.identificacion.errors && formGroup.get('identificacion').touched}" />
+                            <div *ngIf="control.identificacion.errors && formGroup.get('identificacion').touched"
+                            class="invalid-feedback">
+                            <div *ngIf="control.identificacion.errors.required">Campo requerido</div>
+                            </div>
+                        </div>
+                        <div class="col">
+                            <button class="btn btn-success" (click)="buscar()" type="button">Buscar</button>
+                        </div>
+                    </div>
+                   
+                </div>
+
+                <div class="form-row">
+                    <div class="col">
+                        <label for="primerNombre">Primer Nombre <span class="obligatorio">*</span></label>
+                        <input type="text" name="primerNombre" formControlName="primerNombre" class="form-control"
+                            [ngClass]="{'is-invalid': control.primerNombre.errors && formGroup.get('primerNombre').touched}" />
+                        <div *ngIf="control.primerNombre.errors && formGroup.get('primerNombre').touched"
+                            class="invalid-feedback">
+                            <div *ngIf="control.primerNombre.errors.required">Campo requerido</div>
+                        </div>
+                    </div>
+
+                    <div class="col">
+                        <label for="segundoNombre">Segundo Nombre</label>
+                        <input type="text" name="segundoNombre" formControlName="segundoNombre" class="form-control" />
+                    </div>
+                </div>
+
+                <div class="form-row">
+                    <div class="col">
+                        <label for="primerApellido">Primer Apellido <span class="obligatorio">*</span></label>
+                        <input type="text" name="primerApellido" formControlName="primerApellido" class="form-control"
+                            [ngClass]="{'is-invalid': control.primerApellido.errors && formGroup.get('primerApellido').touched}" />
+                        <div *ngIf="control.primerApellido.errors && formGroup.get('primerApellido').touched"
+                            class="invalid-feedback">
+                            <div *ngIf="control.primerApellido.errors.required">Campo requerido</div>
+                        </div>
+                    </div>
+
+                    <div class="col">
+                        <label for="segundoApellido">Segundo Apellido <span class="obligatorio">*</span></label>
+                        <input type="text" name="segundoApellido" formControlName="segundoApellido" class="form-control"
+                            [ngClass]="{'is-invalid': control.segundoApellido.errors && formGroup.get('segundoApellido').touched}" />
+                        <div *ngIf="control.segundoApellido.errors && formGroup.get('segundoApellido').touched"
+                            class="invalid-feedback">
+                            <div *ngIf="control.segundoApellido.errors.required">Campo requerido</div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="form-row">
+                    <div class="col">
+                        <label for="celular">Celular <span class="obligatorio">*</span></label>
+                    <input type="text" name="celular" formControlName="celular" class="form-control"
+                        [ngClass]="{'is-invalid': control.celular.errors && formGroup.get('celular').touched}" />
+                    <div *ngIf="control.celular.errors && formGroup.get('celular').touched" class="invalid-feedback">
+                        <div *ngIf="control.celular.errors.max">Verifique numero del celular</div>
+                    </div>
+                    </div>
+                    <div class="col">
+                        <label for="correo">Correo <span class="obligatorio">*</span></label>
+                    <input type="email" name="correo" formControlName="correo" class="form-control"
+                        [ngClass]="{'is-invalid': control.correo.errors && formGroup.get('correo').touched}" />
+                    <div *ngIf="control.correo.errors && formGroup.get('correo').touched" class="invalid-feedback">
+                        <div *ngIf="control.correo.errors.required">Campo requerido</div>
+                    </div>
+                    </div>
+                    
+                </div>
+
+                <div class="form-row">
+                    <div class="col">
+                        <label for="perfil">Perfil del docente <span class="obligatorio">*</span></label>
+                    <input type="text" name="perfil" formControlName="perfil" class="form-control"
+                        [ngClass]="{'is-invalid': control.perfil.errors && formGroup.get('perfil').touched}" />
+                    <div *ngIf="control.perfil.errors && formGroup.get('perfil').touched" class="invalid-feedback">
+                        <div *ngIf="control.perfil.errors.required">Campo requerido</div>
+                    </div>
+                    </div>
+                    <div class="col">
+                        <label for="nombreArea">Area<span class="obligatorio">*</span> </label>
+                            <select class="form-control" formControlName="nombreArea" name="nombreArea"
+                                [ngClass]="{'is-invalid': control.nombreArea.errors && formGroup.get('nombreArea').touched}">
+                                <option *ngFor="let area of areas" value={{area.nombre}}>
+                                    {{area.nombre}}
+                                </option>
+                            </select>
+                            <div *ngIf="control.nombreArea.errors && formGroup.get('nombreArea').touched" class="invalid-feedback">
+                                <div *ngIf="control.nombreArea.errors.required">Campo requerido</div>
+                            </div>
+                    </div>
+
+                </div>
+                <div class="form-group" >
+                    <label for="perfil">Tipo docente</label>
+                    <input type="text" name="tipoDocente"  formControlName="tipoDocente" class="form-control" disabled>
+                 </div>
+
+
+                <div class="text-center">
+                    <button id="botones" class="btn btn-success" type="reset">Cancelar</button>
+                    <a routerLink='/estudianteRegistro'>
+                        <button id="botones" class="btn btn-success" type="button" (click)="onSubmit()" [disabled]="formGroup.invalid">Siguiente/Guardar</button>
+                    </a>
+
+                </div>
+
+            </form>
+        </div>
+    </div>
+</div>

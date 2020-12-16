@@ -1,0 +1,93 @@
+<app-menu-top></app-menu-top>
+<div class="row">
+    <app-menulaterallider></app-menulaterallider>
+    <div class="container">
+        <div class="row">
+            <div class="col">
+                <h6>Digite código del proyecto</h6>
+                    <div class="row">
+                        <div class="col-2">
+                            <input type="number" name="id" [(ngModel)]="id" class="form-control" />
+                        </div>
+                        <div class="col">
+                            <button class="btn btn-success" (click)="buscar()" type="button">Buscar</button>
+                        </div>
+                    </div>
+                <form>
+                    <div class="form-row">
+                        <div class="col-md-3" >
+                            <label>Líder del proyecto</label>
+                            <input type="text" name="docente" [(ngModel)]="docente" class="form-control" disabled>
+                        </div>
+                        <div class="col-md-3">
+                            <label>Autor</label>
+                            <input type="text" name="estudiante" [(ngModel)]="estudiante"
+                                class="form-control" disabled>
+                        </div>
+                        <div class="col-md-3">
+                            <label>Autor</label>
+                            <input type="text" name="estudiante2" [(ngModel)]="estudiante2"
+                                class="form-control" disabled>
+                        </div>
+                    </div>
+
+                    <div class="form-row">
+                        <div class="col">
+                            <label>Título del proyecto</label>
+                            <input type="text" name="titulo" [(ngModel)]="proyecto.titulo" class="form-control">
+                        </div>
+                        <div class="col">
+                            <label>Asignatura</label>
+                            <input type="text" name="asignatura" [(ngModel)]="proyecto.asignatura" class="form-control">
+                        </div>
+                        <div class="col">
+                            <label for="semestre">Semestre </label>
+                            <input type="text" name="semestre" [(ngModel)]="proyecto.semestre" class="form-control">
+                        </div>
+                    </div>
+
+                    <div class="form-row">
+                        <div class="col">
+                            <label>Resumen</label>
+                            <textarea class="form-control" [(ngModel)]="proyecto.resumen" rows="3"
+                                name="resumen"></textarea>
+                        </div>
+                        <div class="col">
+                            <label>Metodológia de desarrollo del proyecto</label>
+                            <textarea class="form-control" [(ngModel)]="proyecto.metodologia" rows="3"
+                                name="metodologia"></textarea>
+                        </div>
+                    </div>
+
+                    <div class="form-row">
+                        <div class="col">
+                            <label>Resultados y solución </label>
+                            <textarea class="form-control" [(ngModel)]="proyecto.resultados" rows="3"
+                                name="resultados"></textarea>
+                        </div>
+                    </div>
+                    <div class="form-row">
+                        <div class="col-3">
+                            <label for="estado">Estado </label>
+                            <select class="form-control" [(ngModel)]="proyecto.estado" name="estado" disabled>
+                                <option>Aceptado</option>
+                                <option>Modificar</option>
+                                <option>Rechazado</option>
+                            </select>
+                        </div>
+                        <div class="col">
+                            <label>Observación</label>
+                            <textarea class="form-control" [(ngModel)]="proyecto.observacion" rows="1"
+                                name="observacion" disabled></textarea>
+                        </div>
+                    </div>
+                    <div class="text-center">
+                        <button class="botones" class="btn btn-primary mr-1" (click)="update()">Actualizar</button>
+
+                        <button class="botones" class="btn btn-secondary" type="reset">Cancel</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>

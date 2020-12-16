@@ -1,0 +1,14 @@
+label, h5,h6, pre{
+    color:#202124;
+    font-family: Arial, Helvetica, sans-serif;
+}
+label{
+    font-size: 14px;
+}
+.obligatorio{
+    font-size: 15px;
+    color: red;
+}
+#botones{
+    margin: 5px;
+}

@@ -1,0 +1,28 @@
+C:\programacion-web\exposoftwareProyecto\Logica\bin\Debug\netstandard2.1\Logica.deps.json
+C:\programacion-web\exposoftwareProyecto\Logica\bin\Debug\netstandard2.1\Logica.dll
+C:\programacion-web\exposoftwareProyecto\Logica\bin\Debug\netstandard2.1\Logica.pdb
+C:\programacion-web\exposoftwareProyecto\Logica\bin\Debug\netstandard2.1\Datos.dll
+C:\programacion-web\exposoftwareProyecto\Logica\bin\Debug\netstandard2.1\Entity.dll
+C:\programacion-web\exposoftwareProyecto\Logica\bin\Debug\netstandard2.1\Entity.pdb
+C:\programacion-web\exposoftwareProyecto\Logica\bin\Debug\netstandard2.1\Datos.pdb
+C:\programacion-web\exposoftwareProyecto\Logica\obj\Debug\netstandard2.1\Logica.csprojAssemblyReference.cache
+C:\programacion-web\exposoftwareProyecto\Logica\obj\Debug\netstandard2.1\Logica.AssemblyInfoInputs.cache
+C:\programacion-web\exposoftwareProyecto\Logica\obj\Debug\netstandard2.1\Logica.AssemblyInfo.cs
+C:\programacion-web\exposoftwareProyecto\Logica\obj\Debug\netstandard2.1\Logica.csproj.CopyComplete
+C:\programacion-web\exposoftwareProyecto\Logica\obj\Debug\netstandard2.1\Logica.dll
+C:\programacion-web\exposoftwareProyecto\Logica\obj\Debug\netstandard2.1\Logica.pdb
+C:\programacion-web\exposoftwareProyecto\Logica\obj\Debug\netstandard2.1\Logica.csproj.CoreCompileInputs.cache
+D:\Paginas web\ProyectoExposoftwareV2\Logica\bin\Debug\netstandard2.1\Logica.deps.json
+D:\Paginas web\ProyectoExposoftwareV2\Logica\bin\Debug\netstandard2.1\Logica.dll
+D:\Paginas web\ProyectoExposoftwareV2\Logica\bin\Debug\netstandard2.1\Logica.pdb
+D:\Paginas web\ProyectoExposoftwareV2\Logica\bin\Debug\netstandard2.1\Datos.dll
+D:\Paginas web\ProyectoExposoftwareV2\Logica\bin\Debug\netstandard2.1\Entity.dll
+D:\Paginas web\ProyectoExposoftwareV2\Logica\bin\Debug\netstandard2.1\Entity.pdb
+D:\Paginas web\ProyectoExposoftwareV2\Logica\bin\Debug\netstandard2.1\Datos.pdb
+D:\Paginas web\ProyectoExposoftwareV2\Logica\obj\Debug\netstandard2.1\Logica.csprojAssemblyReference.cache
+D:\Paginas web\ProyectoExposoftwareV2\Logica\obj\Debug\netstandard2.1\Logica.csproj.CoreCompileInputs.cache
+D:\Paginas web\ProyectoExposoftwareV2\Logica\obj\Debug\netstandard2.1\Logica.AssemblyInfoInputs.cache
+D:\Paginas web\ProyectoExposoftwareV2\Logica\obj\Debug\netstandard2.1\Logica.AssemblyInfo.cs
+D:\Paginas web\ProyectoExposoftwareV2\Logica\obj\Debug\netstandard2.1\Logica.csproj.CopyComplete
+D:\Paginas web\ProyectoExposoftwareV2\Logica\obj\Debug\netstandard2.1\Logica.dll
+D:\Paginas web\ProyectoExposoftwareV2\Logica\obj\Debug\netstandard2.1\Logica.pdb

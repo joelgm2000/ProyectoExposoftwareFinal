@@ -1,0 +1,33 @@
+<app-menu-top></app-menu-top>
+<div class="row">
+    <app-menu-lateral></app-menu-lateral>
+    <div class="container">
+        <h6>Buscar por código de la rúbrica</h6>
+        <div class="row">
+            <div class="col-2">
+                <input type="text" name="id" [(ngModel)]="id" class="form-control" />
+            </div>
+            <div class="col">
+                <button class="btn btn-success" (click)="buscar()" type="button">Buscar</button>
+            </div>
+        </div>
+       
+        <table class="table table-hover" *ngIf='itemsRubrica && itemsRubrica.length'>
+            <thead>
+                <tr>
+                    <th scope="col">Item</th>
+                    <th scope="col">Descripción</th>
+                    <th scope="col">Acción</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr *ngFor="let item of itemsRubrica">
+                    <td>{{ item.item }} </td>
+                    <td>{{ item.descripcion }}</td>
+                    <td> 
+                    <img src="../../../assets/editarP.png" alt="Editar/Eliminar">
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </div>

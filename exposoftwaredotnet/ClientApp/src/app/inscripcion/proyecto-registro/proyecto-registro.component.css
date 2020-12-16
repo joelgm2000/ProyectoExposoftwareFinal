@@ -1,0 +1,21 @@
+label, h5,h6{
+    color:#202124;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.obligatorio{
+    font-size: 15px;
+    color: red;
+}
+
+#text-resumen{
+    font-size: 15px;
+}
+
+.btn{
+    margin: 10px;
+}
+.container{
+    margin-left: 80px;
+	padding-left: 80px;
+}

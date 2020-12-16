@@ -1,0 +1,39 @@
+<app-menu-top></app-menu-top>
+<div class="row">
+    <app-menu-lateral></app-menu-lateral>
+    <div class="container">
+        <div class="col-6">
+            <input [(ngModel)]="searchText" type="text" class="form-control" placeholder="Buscar docente">
+        </div>
+        <table class="table table-hover" *ngIf='docentes && docentes.length'>
+            <thead>
+                <tr>
+                    <th scope="col">Identificación</th>
+                    <th scope="col">Nombres</th>
+                    <th scope="col">Apellidos</th>
+                    <th scope="col">Celular</th>
+                    <th scope="col">Correo</th>
+                    <th scope="col">Perfil</th>
+                    <th scope="col">Area</th>
+                    <th scope="col">Tipo docente</th>
+                    <th scope="col">Acción</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr *ngFor="let docente of docentes|filtroDocente:searchText">
+                    <td>{{ docente.identificacion }} </td>
+                    <td>{{ docente.primerNombre }} {{docente.segundoNombre}} </td>
+                    <td>{{ docente.primerApellido }} {{docente.segundoApellido}} </td>
+                    <td>{{ docente.celular }}</td>
+                    <td>{{ docente.correo }}</td>
+                    <td>{{ docente.perfil }}</td>
+                    <td>{{ docente.nombreArea }}</td>
+                    <td>{{ docente.tipoDocente }}</td>
+                    <td> <a routerLink='/edicionDocentes/{{docente.identificacion}}'>
+                    <img src="../../../assets/editarP.png" alt="Editar/Eliminar">
+                    </a></td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</div>

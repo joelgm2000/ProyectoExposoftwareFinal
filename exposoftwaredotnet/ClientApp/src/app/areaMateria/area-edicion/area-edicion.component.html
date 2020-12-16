@@ -1,0 +1,33 @@
+<app-menu-top></app-menu-top>
+<div class="row">
+    <app-menu-lateral></app-menu-lateral>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6 offset-md-3">
+                <h5>Gestionar Area</h5>
+                <form>
+                    <div class="form-group">
+                        <label>Codigo</label>
+                        <input type="text" name="idArea" [(ngModel)]="area.idArea" class="form-control" />
+                    </div>
+                    <div class="form-group">
+                        <label>Nombre</label>
+                        <input type="text" name="nombre" [(ngModel)]="area.nombre" class="form-control" />
+                    </div>
+                    <div class="text-center">
+                        <a [routerLink]="['/AreaConsulta']">
+                            <button class="btn btn-primary mr-1" (click)="update()">Actualizar</button>
+                        </a>
+                        <a [routerLink]="['/AreaConsulta']">
+                            <button class="btn btn-primary mr-1" (click)="delete()">Eliminar</button>
+                        </a>
+                        <a [routerLink]="['/AreaConsulta']">
+                            <button class="btn btn-secondary" type="reset">Cancel</button>
+                        </a>
+                    </div>
+                </form>
+
+            </div>
+        </div>
+    </div>
+</div>

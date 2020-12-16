@@ -1,0 +1,50 @@
+<header>
+  <div class="cuadroSuperior">
+
+  </div>
+  <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+    <div class="container">
+      <a class="navbar-brand" [routerLink]="['/']">
+        <img src="../../assets/logoSistemas.png" alt="Universidad Popular del Cesar" width="200px">
+      </a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target=".navbar-collapse"
+        aria-label="Toggle navigation" [attr.aria-expanded]="isExpanded" (click)="toggle()">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="navbar-collapse collapse d-sm-inline-flex flex-sm-row-reverse" [ngClass]="{ show: isExpanded }">
+        <ul class="navbar-nav flex-grow">
+          <li class="nav-item" [routerLinkActive]="['link-active']" [routerLinkActiveOptions]="{ exact: true }">
+            <a class="nav-link text-dark" [routerLink]="['/']">Inicio</a>
+          </li>
+
+          <li class="nav-item" [routerLinkActive]="['link-active']">
+            <a class="nav-link text-dark" [routerLink]="['/docenteRegistro']">Inscripción</a>
+          </li>
+
+          <li class="nav-item" [routerLinkActive]="['link-active']">
+            <a class="nav-link text-dark" [routerLink]="['/Informacion']">Información general</a>
+          </li>
+          <!-- /*<li class="nav-item" [routerLinkActive]="['link-active']">
+            <a class="nav-link text-dark" [routerLink]="['/inicioDocenteLider']">Docente Líder</a>
+          </li>
+          <li class="nav-item" [routerLinkActive]="['link-active']">
+            <a class="nav-link text-dark" [routerLink]="['/inicioEvaluador']">Docente Evaluador</a>
+          </li>
+          <li class="nav-item" [routerLinkActive]="['link-active']">
+            <a class="nav-link text-dark" [routerLink]="['/inicio']">Comité evaluador</a>
+          </li> */ -->
+          <li class="nav-item"  [routerLinkActive]="['link-active']" *ngIf="currentUser" id="li-Logout">
+             <a class="nav-item nav-link" (click)="logout()">Logout</a>
+          </li>
+
+          <li class="nav-item" [routerLinkActive]="['link-active']" *ngIf="!currentUser">
+            <a [routerLink]="['/LoginComiteEvaluador']">
+              <button id="btnIniciarSesion" type="button" class="btn btn-outline-success">Iniciar sesión</button>
+            </a>
+          </li>
+
+        </ul>
+      </div>
+    </div>
+  </nav>
+</header>

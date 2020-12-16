@@ -1,0 +1,34 @@
+<app-menu-top></app-menu-top>
+<div class="row">
+    <app-menu-lateral></app-menu-lateral>
+    <div class="container">
+        <div class="col-6">
+            <input [(ngModel)]="searchText" type="text" class="form-control" placeholder="Buscar Asignatura">
+        </div>
+
+        <hr>
+
+        <table class="table table-hover" *ngIf='asignaturas && asignaturas.length'>
+            <thead>
+                <tr>
+                    <th scope="col">#</th>
+                    <th scope="col">Código</th>
+                    <th scope="col">Nombre</th>
+                    <th scope="col">Area</th>
+                    <th scope="col">Acción</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr *ngFor="let asignatura of asignaturas|filtroAsignatura:searchText;index as i ">
+                    <th scope="row">{{ i + 1 }}</th>
+                    <td>{{ asignatura.idAsignatura }} </td>
+                    <td>{{ asignatura.nombre }}</td>
+                    <td>{{ asignatura.nombreArea}}</td>
+                    <td> <a routerLink='/asignaturaEdicion/{{asignatura.idAsignatura}}'>
+                        <img src="../../../assets/editarP.png" alt="Editar/Eliminar">
+                    </a></td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</div>

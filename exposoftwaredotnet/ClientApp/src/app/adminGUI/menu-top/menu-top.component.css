@@ -1,0 +1,36 @@
+a.navbar-brand {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+nav{
+  height: 70px;
+}
+
+
+a.nav-link {
+  color: rgba(155, 155, 155, 0.747);
+  font-size: 14px;
+  text-transform: uppercase;
+  font-weight: 480;
+}
+
+html {
+  font-size: 14px;
+}
+@media (min-width: 768px) {
+  html {
+    font-size: 14px;
+  }
+}
+
+.box-shadow {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+.cuadroSuperior{
+  background-color: green;
+  white-space: normal;
+  height: 20px;
+}
